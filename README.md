@@ -1,11 +1,18 @@
 # eosforce 使用 scatter API
-安装
 
-    npm install
+## 1. 安装
 
-运行
+```ssh
+git clone https://github.com/eosforce/scatter_demo.git
+cd scatter_demo
+npm install
+```
 
-    npm run dev
+## 2. 运行
+
+```ssh
+npm run dev
+```
 
 配置eosforce 到sccater
 进入scater设置>网络，然后选择新建，选择eos, 将eosforce的节点配置到这里
